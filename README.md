@@ -17,3 +17,19 @@ Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao cur
     <a href="https://www.linkedin.com/in/juliano-prado-078a3920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
+
+## Meus Principais Conhecimentos
+#### Front-end
+- JavaScript <img align="center" alt="Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- React <img align="center" alt="React" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+- HTML <img align="center" alt="HTML" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+- CSS <img align="center" alt="CSS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+#### Back-end
+- TypeScript <img align="center" alt="Ts" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+- NodeJS <img align="center" alt="Node" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+
+#### Banco De Dados
+- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+- MongoDB <img align="center" alt="MongoDB" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
