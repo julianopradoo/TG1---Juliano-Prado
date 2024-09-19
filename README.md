@@ -14,6 +14,6 @@ Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao cur
 ## Contatos
 <div>
     <a href = "mailto:juliano.devprado98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/juliano-prado-07Ba3920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/juliano-prado-078a3920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
