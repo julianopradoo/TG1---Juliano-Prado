@@ -1,7 +1,7 @@
 <h1 align="center">Portfólio - Juliano Vitor Prado</h1>
 
 <p align="center">
-    <img src="./Arquivos/foto-Juliano.jpeg" alt="Descrição da Imagem" width="250"/>
+    <img src="./Arquivos/foto-juliano.jpeg" alt="Descrição da Imagem" width="250"/>
 </p>
 
 ## Introdução
