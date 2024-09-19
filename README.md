@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Juliano Vitor Prado</h1>
+<h1 align="center">Portfólio - Juliano Vitor Prado</h1>
 
 <p align="center">
     <img src="./Arquivos/foto-Juliano.jpeg" alt="Descrição da Imagem" width="250"/>
