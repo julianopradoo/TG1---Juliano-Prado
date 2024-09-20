@@ -46,3 +46,28 @@ Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao cur
 
 **GitHub:** [Suportfy](https://github.com/Equipe-FULLSTACK/API-2)</br></br>
 
+<h2 align="center">Tecnologias Utilizadas</h1>
+
+- Java <p>Linguagem de Programação utilizada no projeto</p>
+- Java Swing <p> Kit de componentes para o desenvolvimento de interfaces gráficas (GUI) para o Java.</p>
+- MySql <p>Banco de dados utilizado para armazenar dados do projeto</p>
+- Banco H2 <p>Banco de dados SQL gratuito escrito em Java que funciona principalmente na memória RAM.</p>
+
+
+
+
+<h2 align="center">Contribuições Pessoais</h1>
+Meu papel no projeto do segundo semestre foi de Desenvolvedor. 
+
+<h2 align="center">Hard Skills</h1>
+
+1. **Java:** Sei fazer com ajuda.
+2. **Java Swing:** Sei fazer com ajuda.
+3. **MySql:** Sei fazer com autonomia.
+
+<h2 align="center">Soft Skills</h1>
+
+
+</details>
+
+
