@@ -33,3 +33,16 @@ Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao cur
 - MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 - MongoDB <img align="center" alt="MongoDB" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
+
+## Meus Projetos
+<details>
+<summary>2º Semestre</summary>
+</br>
+
+**Data:** *Fevereiro 2023*</br></br>
+**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Desafio:** Criar um sistema de controle de informações para facilitar o manuseio das requisições de uma sala de aula. </br></br>
+**Solução:** Para solucionar o desafio, desenvolvemos uma aplicação capaz de coletar informações sobre aulas, salas, alunos e avaliações. Além de permitir a abstração dessas informações e a transformação delas em formato de gráficos de estatísticas que informa o desempenho das turmas. E para isso, trouxemos a proposta de uma aplicação simples e intuitiva onde o usuário consiga navegar com poucos cliques. </br></br>
+
+**GitHub:** [Suportfy](https://github.com/Equipe-FULLSTACK/API-2)</br></br>
+
