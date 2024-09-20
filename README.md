@@ -9,7 +9,7 @@ Meu nome é Juliano Prado, tenho 26 anos e atualmente estou no quinto semestre d
 
 Minha carreira profissional começou na área da usinagem, após concluir o Curso de Aprendizagem Industrial no Senai, e em seguida o Técnico em Mecânica na ETEC Machado de Assis em Caçapava. Trabalhei por um tempo na função de operador de máquinas CNC, e a partir da curiosidade de entender como elas são programadas surgiu meu interesse na área da tecnologia, onde descobri o curso de Análise e Desenvolvimento de Sistemas.
 
-Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao curso, e migrar  para a área da tecnologia. Atualmente trabalho como recepcionista em um hotel de José dos Campos e procuro minha primeira oportunidade de emprego na área. O Curso está sendo muito proveitoso, sinto uma grande evolução profissional e pessoal da minha parte e acredito estar apto em atuar nessa área por ter a oportunidade de ter contato com empresas reais e participar de projetos que simulam situações reais do mercado de trabalho.
+Após a falência da empresa onde eu trabalhava, decidi me dedicar ao curso, e migrar  para a área da tecnologia. Atualmente trabalho como recepcionista em um hotel de José dos Campos e procuro minha primeira oportunidade de emprego na área. O Curso está sendo muito proveitoso, sinto uma grande evolução profissional e pessoal da minha parte e acredito estar apto em atuar nessa área por ter a oportunidade de ter contato com empresas reais e participar de projetos que simulam situações reais do mercado de trabalho.
 
 
 ## Contatos
@@ -69,7 +69,7 @@ Meu papel no projeto do segundo semestre foi de Desenvolvedor. Minhas contribui�
 
 Comunicação eficaz - Após minha transferencia para a Fatec de São Jose dos Campos, senti um certo desnivelamento de meus conhecimentos técnicos comparado aos meus colegas que já tinham tido a experiência de passar por um projeto de API. Procurei sempre deixar claro para meu time minhas dificuldades e procurei consulta-los antes de cada tomada de decisão.
 
-Gerenciamento de tempo - Após entender o formato do projeto, e o ritmo das aulas, procurei otmizar meu tempo disponivel organizando as tarefas da forma mais clara possivel, de maneira que eu pudesse vizualizá-las, assim, possibilitando uma melhor visão macro do semestre.
+Gerenciamento de tempo - Após entender o formato do projeto, e o ritmo das aulas, procurei otimizar meu tempo disponivel organizando as tarefas da forma mais clara possivel, de maneira que eu pudesse vizualizá-las, assim, possibilitando uma melhor visão macro do semestre.
 
 Adaptabilidade e Flexibilidade - Precisei me adaptar rapidamente ás tecnologias que eu não conhecia, mas já eram utilizadas desde o primeiro semestre por meus colegas. Github e Metodologia Scrum são exemplos disso.
 
