@@ -67,6 +67,11 @@ Meu papel no projeto do segundo semestre foi de Desenvolvedor. Minhas contribui�
 
 <h2 align="center">Soft Skills</h1>
 
+Comunicação eficaz - Após minha transferencia para a Fatec de São Jose doa Campos, senti um certo desnivelamento de meus conhecimentos técnicos comparado aos meus colegas que ja tinham tido a experiencia de passar por um projeto de API. Procurei sempre deixar claro para meu time minhas dificuldades e sempre procurei consulta-los antes de ma tomada de decisão.
+
+Gerenciamento de tempo - Após entender o formato do projeto, e o ritmo das aulas, procurei otmizar meu tempo disponivel organizando as tarefas da forma mais clara possivel, de maneira que eu pudesse vizualiza-las, assim, possibilitando uma melhor visão macro do semestre.
+
+Adaptabilidade e Flexibilidade - Precisei me adaptar rapidamente ás tecnologias que eu não conhecia, mas ja eram utilizadas desde o primeiro semestre por meus colegas. Github e Metodologia Scrum são exemplos disso.
 
 </details>
 
