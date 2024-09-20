@@ -48,16 +48,16 @@ Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao cur
 
 <h2 align="center">Tecnologias Utilizadas</h1>
 
-- Java <p>Linguagem de Programação utilizada no projeto</p>
-- Java Swing <p> Kit de componentes para o desenvolvimento de interfaces gráficas (GUI) para o Java.</p>
-- MySql <p>Banco de dados utilizado para armazenar dados do projeto</p>
-- Banco H2 <p>Banco de dados SQL gratuito escrito em Java que funciona principalmente na memória RAM.</p>
+- Java - Linguagem de Programação utilizada no frontend e backend do projeto.
+- Java Swing - Kit de componentes utilizado para o desenvolvimento da interface.
+- MySql - Banco de dados utilizado para armazenar dados do projeto.
+- Banco H2 - Banco de dados SQL usado principalmente para testar cruds da aplicação.
 
 
 
 
 <h2 align="center">Contribuições Pessoais</h1>
-Meu papel no projeto do segundo semestre foi de Desenvolvedor. 
+Meu papel no projeto do segundo semestre foi de Desenvolvedor. Minhas contribuições se concentram na parte do frontend, onde utilizei componentes do Java Swing para construir a interface gráfica do projeto, mais especificamente telas de "Inicio" e a tela de "Aula/Tarefa". também tive grande contribuição na modelagem do banco de dados, na criação das tabelas e manutenção dos dados conforme necessidade. Além de auxiliar na integração do banco de dados criando algumas das funções CRUD para interação da Interface x Banco.
 
 <h2 align="center">Hard Skills</h1>
 
