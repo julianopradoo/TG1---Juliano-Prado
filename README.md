@@ -14,9 +14,9 @@ Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao cur
 
 ## Contatos
 
-- [E-mail](mailto:julianoprado98@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/juliano-prado-078a3920b/)
-- [Github](https://github.com/julianopradoo)
+- [E-mail] (mailto:juliano.devprado98@gmail.com)
+- [Linkedin] (https://www.linkedin.com/in/juliano-prado-078a3920b/)
+- [Github] (https://github.com/julianopradoo)
 
 ## Meus Principais Conhecimentos
 #### Front-end
