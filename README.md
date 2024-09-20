@@ -7,13 +7,14 @@
 ## Introdução
 Meu nome é Juliano Prado, tenho 26 anos e atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas. Meus estudos na área da computação se iniciaram em Agosto de 2022. Primeiramente matriculado na Fatec de Taubaté (Faculdade de Tecnologia de Taubaté) onde conclui o primeiro semestre do curso,  e posteriormente transferido para  Fatec Professor Jessen Vidal em são José dos Campos, onde estou cursando atualmente.
 
-Minha carreira profissional começou na área da usinagem, após concluir o curso de aprendizagem industrial no Senai, e em seguida o técnico em mecânica na ETEC machado de Assis em Caçapava. Trabalhei por um tempo na função de operador de máquinas CNC, e a partir da curiosidade de entender como elas são programadas surgiu meu interesse na área da tecnologia, onde descobri o curso de Análise e Desenvolvimento de Sistemas.
+Minha carreira profissional começou na área da usinagem, após concluir o Curso de Aprendizagem Industrial no Senai, e em seguida o Técnico em Mecânica na ETEC Machado de Assis em Caçapava. Trabalhei por um tempo na função de operador de máquinas CNC, e a partir da curiosidade de entender como elas são programadas surgiu meu interesse na área da tecnologia, onde descobri o curso de Análise e Desenvolvimento de Sistemas.
 
-Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao curso, e migrar  para a área da tecnologia. Atualmente trabalho como recepcionista em um hotel de José dos campos e procuro minha primeira oportunidade de emprego na área.
+Após a triste falência da empresa onde eu trabalhava, decidi me dedicar ao curso, e migrar  para a área da tecnologia. Atualmente trabalho como recepcionista em um hotel de José dos Campos e procuro minha primeira oportunidade de emprego na área. O Curso está sendo muito proveitoso, sinto uma grande evolução profissional e pessoal da minha parte e acredito estar apto em atuar nessa área por ter a oportunidade de ter contato com empresas reais e participar de projetos que simulam situações reais do mercado de trabalho.
+
 
 ## Contatos
 <div>
-    <a href = "mailto:juliano.devprado98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:juliano.devprado98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
     <a href="https://www.linkedin.com/in/juliano-prado-078a3920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
@@ -67,11 +68,11 @@ Meu papel no projeto do segundo semestre foi de Desenvolvedor. Minhas contribui�
 
 <h2 align="center">Soft Skills</h1>
 
-Comunicação eficaz - Após minha transferencia para a Fatec de São Jose doa Campos, senti um certo desnivelamento de meus conhecimentos técnicos comparado aos meus colegas que ja tinham tido a experiencia de passar por um projeto de API. Procurei sempre deixar claro para meu time minhas dificuldades e sempre procurei consulta-los antes de ma tomada de decisão.
+Comunicação eficaz - Após minha transferencia para a Fatec de São Jose dos Campos, senti um certo desnivelamento de meus conhecimentos técnicos comparado aos meus colegas que já tinham tido a experiência de passar por um projeto de API. Procurei sempre deixar claro para meu time minhas dificuldades e procurei consulta-los antes de cada tomada de decisão.
 
-Gerenciamento de tempo - Após entender o formato do projeto, e o ritmo das aulas, procurei otmizar meu tempo disponivel organizando as tarefas da forma mais clara possivel, de maneira que eu pudesse vizualiza-las, assim, possibilitando uma melhor visão macro do semestre.
+Gerenciamento de tempo - Após entender o formato do projeto, e o ritmo das aulas, procurei otmizar meu tempo disponivel organizando as tarefas da forma mais clara possivel, de maneira que eu pudesse vizualizá-las, assim, possibilitando uma melhor visão macro do semestre.
 
-Adaptabilidade e Flexibilidade - Precisei me adaptar rapidamente ás tecnologias que eu não conhecia, mas ja eram utilizadas desde o primeiro semestre por meus colegas. Github e Metodologia Scrum são exemplos disso.
+Adaptabilidade e Flexibilidade - Precisei me adaptar rapidamente ás tecnologias que eu não conhecia, mas já eram utilizadas desde o primeiro semestre por meus colegas. Github e Metodologia Scrum são exemplos disso.
 
 </details>
 
