@@ -41,7 +41,9 @@ Após a falência da empresa onde eu trabalhava, decidi me dedicar ao curso, e m
 
 **Data:** *Fevereiro 2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Desafio:** Criar um sistema de controle de informações para facilitar o manuseio das requisições de uma sala de aula. </br></br>
+**Professor Responsável:** *Giuliano Araujo Bertoti*</br></br>
+**Desafio:** O desafio proposto é criar um sistema para que um professor, sem o uso de internet, consiga manusear as informações e requisições necessárias em sala de aula, como conferir lista de presença, analisar notas de alunos, informar datas de trabalhos a serem realizados, datas de avaliações etc.
+A aplicação deve ser intuitiva, e de simples acesso. A idéia é que uma pessoa com pouco conhecimento em informática não tenha dificuldade ao usar o aplicativo.  </br></br>
 **Solução:** Para solucionar o desafio, desenvolvemos uma aplicação capaz de coletar informações sobre aulas, salas, alunos e avaliações. Além de permitir a abstração dessas informações e a transformação delas em formato de gráficos de estatísticas que informa o desempenho das turmas. E para isso, trouxemos a proposta de uma aplicação simples e intuitiva onde o usuário consiga navegar com poucos cliques. </br></br>
 
 **GitHub:** [Suportfy](https://github.com/Equipe-FULLSTACK/API-2)</br></br>
