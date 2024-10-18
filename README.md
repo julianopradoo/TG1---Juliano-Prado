@@ -77,4 +77,62 @@ Adaptabilidade e Flexibilidade - Precisei me adaptar rapidamente ás tecnologias
 
 </details>
 
+<details>
+<summary>3º Semestre</summary>
+</br>
 
+**Data:** *##########*</br></br>
+**Empresa:** *##########*</br></br>
+**Professor Responsável:** *##########*</br></br>
+**Desafio:** O##########  </br></br>
+**Solução:**########## </br></br>
+
+**GitHub:** ##########</br></br>
+
+<h2 align="center">Tecnologias Utilizadas</h1>
+
+##########
+
+
+<h2 align="center">Contribuições Pessoais</h1>
+##########
+
+<h2 align="center">Hard Skills</h1>
+
+##########
+
+<h2 align="center">Soft Skills</h1>
+
+##########
+</details>
+
+<details>
+<summary>4º Semestre</summary>
+</br>
+
+**Data:** *##########*</br></br>
+**Empresa:** *##########*</br></br>
+**Professor Responsável:** *##########*</br></br>
+**Desafio:** ##########  </br></br>
+**Solução:** ########## </br></br>
+
+**GitHub:** ##########</br></br>
+
+<h2 align="center">Tecnologias Utilizadas</h1>
+
+##########
+
+
+
+
+<h2 align="center">Contribuições Pessoais</h1>
+##########
+
+<h2 align="center">Hard Skills</h1>
+
+##########
+
+<h2 align="center">Soft Skills</h1>
+
+##########
+</details>
