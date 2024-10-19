@@ -103,8 +103,9 @@ A plataforma será altamente compatível, funcionando em diversos navegadores e 
 Nesse projeto atuei como Scrum Master, e tive a oportunidade de auxiliar minha equipe a seguir a prática e principios do framework Scrum. Fui responsável, juntamente com o PO, por organizar e definir as etapas da criação do software. Também pude atribuir tasks aos respetivos membros da equipe, garantir a organização geral do projeto, evitar o comando controle, e principalmente oferecer soluções para dificuldades apresentadas por membros. Além disso, também tive a responsabilidade de criar a tela de "Cadastro de usuário", utilizando React para estruturar a interface do usuário e fazer as validaões necessárias (como verificar se o e-mail tem um formato válido ou se a senha atende certos critérios).
 
 <h2 align="center">Hard Skills</h1>
-1. **Metodologia Scrum** Sei fazer com autonomia.
-2. **React** Sei fazer com ajuda.
+
+1. **Metodologia Scrum**: Sei fazer com autonomia.
+2. **React**: Sei fazer com ajuda.
 
 <h2 align="center">Soft Skills</h1>
 Comunicação eficaz: Precisei me comunicar de forma clara e objetiva com todos os membros da equipe, tanto para captar feedbacks quanto para entender necessiadades do time. Além de transmitir informações complexa da uma maneira clara, para facilitar o compreendimento de todos os envolvidos.
