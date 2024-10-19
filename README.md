@@ -81,29 +81,38 @@ Adaptabilidade e Flexibilidade - Precisei me adaptar rapidamente ás tecnologias
 <summary>3º Semestre</summary>
 </br>
 
-**Data:** *##########*</br></br>
-**Empresa:** *##########*</br></br>
-**Professor Responsável:** *##########*</br></br>
-**Desafio:** O##########  </br></br>
-**Solução:**########## </br></br>
+**Data:** *Agosto de 2023*</br></br>
+**Empresa:** *Ionic Health*</br></br>
+**Desafio:** O desafio consiste em criar uma plataforma web abrangente para atender às necessidades da equipe regulatória e de toda a organização. Esta plataforma permitirá a criação personalizada de processos regulatórios, com a flexibilidade de definir etapas, responsáveis e prazos. Devem ser implementados niveis de acessos e permissões conforme o grau de hierarquia da empresa. A idéia é que um processo criado por um funcionário por exemplo (nivel 4), passe pela revisao de seu lider (nivel 3) antes de ser encaminhado prar um nivel superior.   </br></br>
+**Solução:** Para solucionar o desafio, foi desenvolvido um painel de controle intuitivo que fornecerá um monitoramento em tempo real, destacando as etapas concluídas e pendentes, enquanto os usuários poderão anexar evidências relevantes, como documentos e imagens, a cada etapa.
+Além disso, o sistema garantirá notificações automáticas para alertar os responsáveis sobre etapas pendentes ou atrasadas. Os relatórios personalizados facilitarão a análise do desempenho e eficácia dos processos, enquanto a segurança e autenticação robustas garantirão o acesso apenas a usuários autorizados.
+A plataforma será altamente compatível, funcionando em diversos navegadores e dispositivos e se integrará a sistemas externos para troca de dados.</br></br>
 
-**GitHub:** ##########</br></br>
+**GitHub:** [Suportfy] https://github.com/Equipe-FULLSTACK/API-3</br></br>
 
 <h2 align="center">Tecnologias Utilizadas</h1>
 
-##########
+- Javascript - Linguagem de Programação utilizada no projeto.
+- Typescript - linguagem de programação que se baseia no JavaScript e adiciona tipagem estática, utilizada para detectar erros antes da execussão do código.
+- Node.js - Plataforma de desenvolvimento de código aberto que permite a execução de JavaScript fora de um navegador web, utilizada na estruturação do backend do projeto.
+- React - Biblioteca de JavaScript de código aberto utilizada na criação de interfaces de usuário.
+- MySql - Banco de dados utilizado para armazenar dados do projeto.
 
 
 <h2 align="center">Contribuições Pessoais</h1>
-##########
+Nesse projeto atuei como Scrum Master, e tive a oportunidade de auxiliar minha equipe a seguir a prática e principios do framework Scrum. Fui responsável, juntamente com o PO, por organizar e definir as etapas da criação do software. Também pude atribuir tasks aos respetivos membros da equipe, garantir a organização geral do projeto, evitar o comando controle, e principalmente oferecer soluções para dificuldades apresentadas por membros. Além disso, também tive a responsabilidade de criar a tela de "Cadastro de usuário", utilizando React para estruturar a interface do usuário e fazer as validaões necessárias (como verificar se o e-mail tem um formato válido ou se a senha atende certos critérios).
 
 <h2 align="center">Hard Skills</h1>
-
-##########
+1. **Metodologia Scrum** Sei fazer com autonomia.
+2. **React** Sei fazer com ajuda.
 
 <h2 align="center">Soft Skills</h1>
+Comunicação eficaz: Precisei me comunicar de forma clara e objetiva com todos os membros da equipe, tanto para captar feedbacks quanto para entender necessiadades do time. Além de transmitir informações complexa da uma maneira clara, para facilitar o compreendimento de todos os envolvidos.
 
-##########
+Empatia: Procurei entender as dificuldades e necessidades de cada membro da equipe, oferecendo soluções e demonstrando apoio e compreensão para criar um ambiente de confiança.
+
+Gestão de Tempo: Como Scrum Master, pude desenvolver ainda mais a capacidade de gestão de tempo, esclarecendo prazos e monitorando o andamento da produção de minha equipe.
+
 </details>
 
 <details>
