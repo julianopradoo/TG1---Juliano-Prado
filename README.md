@@ -108,6 +108,7 @@ Nesse projeto atuei como Scrum Master, e tive a oportunidade de auxiliar minha e
 2. **React**: Sei fazer com ajuda.
 
 <h2 align="center">Soft Skills</h1>
+
 Comunicação eficaz - Precisei me comunicar de forma clara e objetiva com todos os membros da equipe, tanto para captar feedbacks quanto para entender necessiadades do time. Além de transmitir informações complexa da uma maneira clara, para facilitar o compreendimento de todos os envolvidos.
 
 Empatia - Procurei entender as dificuldades e necessidades de cada membro da equipe, oferecendo soluções e demonstrando apoio e compreensão para criar um ambiente de confiança.
