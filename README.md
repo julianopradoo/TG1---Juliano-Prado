@@ -121,29 +121,36 @@ Gestão de Tempo - Como Scrum Master, pude desenvolver ainda mais a capacidade d
 <summary>4º Semestre</summary>
 </br>
 
-**Data:** *##########*</br></br>
-**Empresa:** *##########*</br></br>
-**Professor Responsável:** *##########*</br></br>
-**Desafio:** ##########  </br></br>
-**Solução:** ########## </br></br>
+**Data:** *Fevereiro 2024*</br></br>
+**Empresa:** *SIATT*</br></br>
+**Desafio:** O desafio proposto no quarto semestre foi a criação de um aplicativo para o gerenciamento de reservas de salas de reunião para a empresa SIATT. A empresa possui salas de diferentes formatos e capacidade, e estava encontrando dificuldades para gerenciar os agendamentos e a disponibilidade das salas que são usadas principalmente para reuniões. As modalidades das reuniões são: Reuniões Fisicas (feitas de maneira presencial), Reuniões Virtuais (feitas online) e Reuniões Hibridas (reuniões onde há pessoas presencialmente que se conectam com membros online) .   </br></br>
+**Solução:** Para solucionar o problema criamos um aplicativo de gerenciamento de salas, onde cadastramos todas as salas disponiveis das empresas, juntamente com os horarios previstos a modalidade de cada sala. A aplicação é capaz de informar quais salas estão disponiveis e ocupadas, agendar uma reunião e administrar os usuários atrelados a essas reuniões. </br></br>
 
-**GitHub:** ##########</br></br>
+**GitHub:** [Suportfy] https://github.com/Equipe-FULLSTACK/API-4 </br></br>
 
 <h2 align="center">Tecnologias Utilizadas</h1>
 
-##########
-
-
-
+- Javascript - Linguagem de Programação utilizada no projeto.
+- Typescript - linguagem de programação que se baseia no JavaScript e adiciona tipagem estática, utilizada para detectar erros antes da execussão do código.
+- Node.js - Plataforma de desenvolvimento de código aberto que permite a execução de JavaScript fora de um navegador web, utilizada na estruturação do backend do projeto.
+- React - Biblioteca de JavaScript de código aberto utilizada na criação de interfaces de usuário.
+- MySql - Banco de dados utilizado para armazenar dados do projeto.
 
 <h2 align="center">Contribuições Pessoais</h1>
-##########
+
+Nesse projeto, novamente atuei como Scrum Master, e fui responsável pela organização e o gerenciamento da equipe. Além disso, fui o responsável pela modelagem completa e implementação do banco de dados, partindo desde o levantamento de requisitos, até a confecção dos modelos Conceitual (modelo de alto nível que representa os conceitos e regras de negócio de um sistema de informação), Lógico (representação abstrata dos requisitos de dados de uma organização, que descreve como os dados serão armazenados e acessados) e Físico (descrição de como os dados são organizados em tabelas reais do banco de dados). Também fui responsável pela atualização constante do Banco de Dados e pela confecção da Documentação do mesmo. 
 
 <h2 align="center">Hard Skills</h1>
 
-##########
+1. **Metodologia Scrum**: Sei fazer com autonomia.
+2. **Mysql**: Sei fazer com autonomia.
 
 <h2 align="center">Soft Skills</h1>
 
-##########
+Influencia sem auturidade - Após um semestre atuando como Scrum Master, entendi que meu papel era influenciar os desenvolvedores a terem a melhor performance sem fazer o uso da autoridade. Para isso, demonstrei o valor das práticas ágeis e como elas nos ajudam a ter um resultado mais eficaz.
+
+Adaptabilidade - Foi necessário aprender sobre modelagem, quais suas etapas e os resultados esperados, para ai sim, começar a modelagem de fato. Precisei me adaptar ás tecnologias utilizadas para uma modelagem eficaz como brModelo, e DbDiagram por exemplo
+
+Pensamento analítico - Para desenvolver a modelagem do Banco de Dados, foi necessário a capacidade de analisar a situação, e pensar lógicamente, buscando sempre a melhor solução para os problemas enfrentados ao longo das sprints.
+
 </details>
