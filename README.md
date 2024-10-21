@@ -147,7 +147,7 @@ Nesse projeto, novamente atuei como Scrum Master, e fui responsável pela organi
 
 <h2 align="center">Soft Skills</h1>
 
-Influencia sem auturidade - Após um semestre atuando como Scrum Master, entendi que meu papel era influenciar os desenvolvedores a terem a melhor performance sem fazer o uso da autoridade. Para isso, demonstrei o valor das práticas ágeis e como elas nos ajudam a ter um resultado mais eficaz.
+Influencia sem autoridade - Após um semestre atuando como Scrum Master, entendi que meu papel era influenciar os desenvolvedores a terem a melhor performance sem fazer o uso da autoridade. Para isso, demonstrei o valor das práticas ágeis e como elas nos ajudam a ter um resultado mais eficaz.
 
 Adaptabilidade - Foi necessário aprender sobre modelagem, quais suas etapas e os resultados esperados, para ai sim, começar a modelagem de fato. Precisei me adaptar ás tecnologias utilizadas para uma modelagem eficaz como brModelo, e DbDiagram por exemplo
 
