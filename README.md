@@ -112,11 +112,11 @@ Nesse projeto atuei como Scrum Master, e tive a oportunidade de auxiliar minha e
 
 <h2 align="center">Soft Skills</h1>
 
-Comunicação eficaz - Precisei me comunicar de forma clara e objetiva com todos os membros da equipe, tanto para captar feedbacks quanto para entender necessiadades do time. Além de transmitir informações complexa da uma maneira clara, para facilitar o compreendimento de todos os envolvidos.
+Comunicação eficaz - Trabalhei em conjunto com todos os membros da equipe para garantir o entendimento eficaz sobre o que foi planejado em cada sprint, desde a prototipagem com a equipe de design, até a modelagem e a estruturação do projeto.
 
-Empatia - Procurei entender as dificuldades e necessidades de cada membro da equipe, oferecendo soluções e demonstrando apoio e compreensão para criar um ambiente de confiança.
+Solução de Problemas - Pude oferecer soluções para as dificuldades encontradas nas validações da tela "Cadastro de usuários". 
 
-Gestão de Tempo - Como Scrum Master, pude desenvolver ainda mais a capacidade de gestão de tempo, esclarecendo prazos e monitorando o andamento da produção de minha equipe.
+Gestão de Tempo - Como Scrum Master, esclareci prazos e monitorei o andamento da produção de minha equipe, garantindo que todas as entregas fossem cumpridas.
 
 </details>
 
