@@ -83,6 +83,7 @@ Adaptabilidade e Flexibilidade - Precisei me adaptar rapidamente ás tecnologias
 
 **Data:** *Agosto de 2023*</br></br>
 **Empresa:** *Ionic Health*</br></br>
+**Área de atuação da empresa:** *A IONIC Health atua na área demedicina diagnóstica, oferecendo plataformas digitais e serviços de inovação e transformação. A empresa é especializada em aprimorar a infraestrutura de tecnologia de saúde, com foco em diagnóstico por imagem e análises clínicas.*</br></br>
 **Desafio:** O desafio consiste em criar uma plataforma web abrangente para atender às necessidades da equipe regulatória e de toda a organização. Esta plataforma permitirá a criação personalizada de processos regulatórios, com a flexibilidade de definir etapas, responsáveis e prazos. Devem ser implementados niveis de acessos e permissões conforme o grau de hierarquia da empresa. A idéia é que um processo criado por um funcionário por exemplo (nivel 4), passe pela revisao de seu lider (nivel 3) antes de ser encaminhado prar um nivel superior.   </br></br>
 **Solução:** Para solucionar o desafio, foi desenvolvido um painel de controle intuitivo que fornecerá um monitoramento em tempo real, destacando as etapas concluídas e pendentes, enquanto os usuários poderão anexar evidências relevantes, como documentos e imagens, a cada etapa.
 Além disso, o sistema garantirá notificações automáticas para alertar os responsáveis sobre etapas pendentes ou atrasadas. Os relatórios personalizados facilitarão a análise do desempenho e eficácia dos processos, enquanto a segurança e autenticação robustas garantirão o acesso apenas a usuários autorizados.
@@ -123,6 +124,7 @@ Gestão de Tempo - Como Scrum Master, pude desenvolver ainda mais a capacidade d
 
 **Data:** *Fevereiro 2024*</br></br>
 **Empresa:** *SIATT*</br></br>
+**Área de atuação da empresa:** *A SIATT (Sistemas Integrados de Alto Teor Tecnológico) é uma empresa brasileira que atua nos setores de defesa e aeroespacial, fornecendo soluções de alta tecnologia, como armamentos inteligentes, radares e sensores, sistemas e equipamentos aviônicos etc*</br></br>
 **Desafio:** O desafio proposto no quarto semestre foi a criação de um aplicativo para o gerenciamento de reservas de salas de reunião para a empresa SIATT. A empresa possui salas de diferentes formatos e capacidade, e estava encontrando dificuldades para gerenciar os agendamentos e a disponibilidade das salas que são usadas principalmente para reuniões. As modalidades das reuniões são: Reuniões Fisicas (feitas de maneira presencial), Reuniões Virtuais (feitas online) e Reuniões Hibridas (reuniões onde há pessoas presencialmente que se conectam com membros online) .   </br></br>
 **Solução:** Para solucionar o problema criamos um aplicativo de gerenciamento de salas, onde cadastramos todas as salas disponiveis das empresas, juntamente com os horarios previstos a modalidade de cada sala. A aplicação é capaz de informar quais salas estão disponiveis e ocupadas, agendar uma reunião e administrar os usuários atrelados a essas reuniões. </br></br>
 
