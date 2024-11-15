@@ -186,7 +186,7 @@ Pensamento analítico - Para desenvolver a modelagem do Banco de Dados, foi nece
 
 <h2 align="center">Contribuições Pessoais</h1>
 
-No projeto do quinto semestre atuei como desenvolvedor. Fui responsável pela modelagem do Banco de Dados relacional, passando pelas etapas de levantamento de requisitos, modelo conceitual, modelo lógico, até a criação das tabelas do modelo físico no MySQL. Após essa etapa pude realizar a modelagem não relacional, exportando os dados em JSON para o MongoDB e realizando as tratativas necessárias conforme a necessidade. Também tive a oportunidade de documentar o projeto e criar o Manual do Usuário.
+No projeto do quinto semestre atuei como desenvolvedor. Fui responsável pela modelagem e implementação do Banco de Dados relacional, passando pelas etapas de levantamento de requisitos, modelo conceitual, modelo lógico, até a criação das tabelas do modelo físico no MySQL. Após essa etapa pude realizar a modelagem não relacional, exportando os dados em JSON para o MongoDB e realizando as tratativas necessárias conforme a necessidade. Também tive a oportunidade de documentar o projeto e criar o Manual do Usuário.
 
 
 <h2 align="center">Hard Skills</h1>
@@ -196,6 +196,12 @@ No projeto do quinto semestre atuei como desenvolvedor. Fui responsável pela mo
 3. **Documentação**: Sei fazer com ajuda.
 
 <h2 align="center">Soft Skills</h1>
+
+Adaptação às novas tecnologias - Para realizar a implementação do banco de dados não relacional, foi necessário um tempo para aprender conceitos da modelagem NoSQL, e posteriormente aprender a manipular o Banco de dados MongoDB.
+
+Atenção aos detalhes - Ao documentar o projeto, foi necessário muita atenção e revisão tanto de minha parte, quanto a de outros membros da equipe.
+
+Trabalho em equipe - Por se tratar do quinto semestre, a convivência com meus colegas já estava em um nivel de afinidade maior. Sendo assim, pude desenvolver muito o lado de trabalho em equipe pois todos os membros sentiam-se a vontade para tirar dúvidas, debater opiniões e até mesmo apontar erros e corrigir pontos falhos sem receio nenhum.
 
 
 
