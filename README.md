@@ -158,3 +158,45 @@ Adaptabilidade - Foi necessário aprender sobre modelagem, quais suas etapas e o
 Pensamento analítico - Para desenvolver a modelagem do Banco de Dados, foi necessário a capacidade de analisar a situação, e pensar lógicamente, buscando sempre a melhor solução para os problemas enfrentados ao longo das sprints.
 
 </details>
+
+
+<details>
+<summary>5º Semestre</summary>
+</br>
+
+**Data:** *Agosto 2024*</br></br>
+**Empresa:** *Kersys*</br></br>
+**Área de atuação da empresa:** *A Kersys é uma empresa brasileira que atua no desenvolvimento de soluções tecnológicas para a gestão florestal e do agronegócio*</br></br>
+**Desafio:**   </br></br>
+**Solução:**  </br></br>
+
+**GitHub:** [Documentação] https://github.com/Equipe-FULLSTACK/API-5 </br></br>
+            [Frontend] https://github.com/FATEC-FULLSTACK/FRONTEND-API5S </br></br>
+            [Backend] https://github.com/FATEC-FULLSTACK/BACKEND-API5S </br></br>
+
+<h2 align="center">Tecnologias Utilizadas</h1>
+
+- Javascript - Linguagem de Programação utilizada no projeto.
+- Typescript - linguagem de programação que se baseia no JavaScript e adiciona tipagem estática, utilizada para detectar erros antes da execussão do código.
+- Node.js - Plataforma de desenvolvimento de código aberto que permite a execução de JavaScript fora de um navegador web, utilizada na estruturação do backend do projeto.
+- Android Studio - Ambiente de desenvolvimento integrado (IDE) gratuito para criar aplicativos para o sistema Android.
+- React native - Estrutura de aplicativo móvel popular, baseada na linguagem JavaScript, que permite criar aplicativos móveis renderizados nativamente para iOS e Android.
+- MySQL - Banco de dados relacional utilizado para armazenar dados cadastrais do projeto.
+- MongoDB - Banco de dados não relacional utilizado para armazenar lavourar e pontos do projeto.
+
+<h2 align="center">Contribuições Pessoais</h1>
+
+No projeto do quinto semestre atuei como desenvolvedor. Fui responsável pela modelagem do Banco de Dados relacional, passando pelas etapas de levantamento de requisitos, modelo conceitual, modelo lógico, até a criação das tabelas do modelo físico. Após essa etapa pude realizar a modelagem não relacional, exportando os dados em JSON e realizando as tratativas necessárias conforme a necessidade. Também tive a oportunidade de documentar o projeto e criar o Manual do Usuário.
+
+
+<h2 align="center">Hard Skills</h1>
+
+1. **MongoDB**: Sei fazer com ajuda.
+2. **Mysql**: Sei fazer com autonomia.
+3. **Documentação**: Sei fazer com ajuda.
+
+<h2 align="center">Soft Skills</h1>
+
+
+
+</details>
