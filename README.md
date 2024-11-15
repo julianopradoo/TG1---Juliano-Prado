@@ -167,8 +167,8 @@ Pensamento analítico - Para desenvolver a modelagem do Banco de Dados, foi nece
 **Data:** *Agosto 2024*</br></br>
 **Empresa:** *Kersys*</br></br>
 **Área de atuação da empresa:** *A Kersys é uma empresa brasileira que atua no desenvolvimento de soluções tecnológicas para a gestão florestal e do agronegócio*</br></br>
-**Desafio:**   </br></br>
-**Solução:**  </br></br>
+**Desafio:**   </br> Como uma empresa atuante no ramo do desenvolvimento tecnológico agronegócio, a Kerseys pretente criar um aplicativo para auxiliar os produtores rurais a acompanhar o histórico das variações das informações climáticas de uma determinada lavoura, ou de um determonado ponto. Como os produtores muitas vezes estão em locais de pouco contato tecnológico, o aplicativo deve funcionar sem o uso da internet, além de ser simples e intuitivo.  </br>
+**Solução:**  </br> Para solucionar o desafio, nossa equipe desenvolveu um aplicativo mobile através do Android Studio utilizando React Native.  O aplicativo deve permitir aos usuários cadastrar seus pontos, e acompanhar via gráficos a variação da pluviometria e da temperatura a partir de uma data informada, até a data atual. O aplicativo também deve ter a capacidade de exibir dados consolidados de temperatura, pluviometria por ano ou mês e emitir notificações e alertas em caso de situações críticas.</br>
 
 **GitHub:** [Documentação] https://github.com/Equipe-FULLSTACK/API-5 </br></br>
             [Frontend] https://github.com/FATEC-FULLSTACK/FRONTEND-API5S </br></br>
@@ -186,7 +186,7 @@ Pensamento analítico - Para desenvolver a modelagem do Banco de Dados, foi nece
 
 <h2 align="center">Contribuições Pessoais</h1>
 
-No projeto do quinto semestre atuei como desenvolvedor. Fui responsável pela modelagem do Banco de Dados relacional, passando pelas etapas de levantamento de requisitos, modelo conceitual, modelo lógico, até a criação das tabelas do modelo físico. Após essa etapa pude realizar a modelagem não relacional, exportando os dados em JSON e realizando as tratativas necessárias conforme a necessidade. Também tive a oportunidade de documentar o projeto e criar o Manual do Usuário.
+No projeto do quinto semestre atuei como desenvolvedor. Fui responsável pela modelagem do Banco de Dados relacional, passando pelas etapas de levantamento de requisitos, modelo conceitual, modelo lógico, até a criação das tabelas do modelo físico no MySQL. Após essa etapa pude realizar a modelagem não relacional, exportando os dados em JSON para o MongoDB e realizando as tratativas necessárias conforme a necessidade. Também tive a oportunidade de documentar o projeto e criar o Manual do Usuário.
 
 
 <h2 align="center">Hard Skills</h1>
